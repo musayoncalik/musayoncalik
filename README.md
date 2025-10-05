@@ -1,7 +1,7 @@
 # 👋 Merhaba, Ben Musa Yoncalık
 
 🎓 Mehmet Akif Ersoy Üniversitesi – Bilişim Sistemleri ve Teknolojileri (2022-2026)  
-🏆 Kariyer Diploması sahibi  
+🏆 MAKÜ Kariyer Okulu Diploması  
 🛡️ CYBERSHIELD INNOVATORS – Yeni Nesil Siber Güvenlik Eğitimleri (2025)  
 💻 Teknolojiyi sadece geliştirmek değil, güvenli hale getirmek gerektiğine inanıyorum. Bu yüzden mobil geliştirme, yapay zeka ve siber güvenlik alanlarında kendimi sürekli geliştirerek güvenli dijital çözümler üretmeye odaklanıyorum.  
 🚀 GitHub'da öğrendiklerimi paylaşmayı seviyorum.
