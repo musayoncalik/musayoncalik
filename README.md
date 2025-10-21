@@ -1,5 +1,4 @@
-![Musa Yoncalık](https://img.shields.io/badge/-Musa%20Yoncalık-blue?style=for-the-badge&logo=appveyor)
-
+<img src="https://camo.githubusercontent.com/7e35fcd3f945edce25cc87e1802a3b93f7183656e315db113dc60be943637a7a/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d33303026636f6c6f723d6772616469656e7426746578743d416c6968616e25323044757273756e" height="250"/>
 
 | 👋 Merhaba, Ben Musa Yoncalık | <div align="right">![](https://komarev.com/ghpvc/?username=musayoncalik&color=blue)</div> |
 |---|---|
