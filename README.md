@@ -57,7 +57,9 @@ Mobil geliştirme, yapay zeka ve siber güvenlik alanlarında kendimi sürekli g
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musayoncalik&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=musayoncalik&theme=tokyonight)  
 
- <div align="left">![](https://komarev.com/ghpvc/?username=musayoncalik&color=blue)</div> 
+ 
+<div align="right">![](https://komarev.com/ghpvc/?username=musayoncalik&color=blue)</div>
+
 
  
 
