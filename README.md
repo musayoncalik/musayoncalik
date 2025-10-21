@@ -1,4 +1,4 @@
-| 👋 Merhaba, Ben Musa Yoncalık | <div align="right">![](https://komarev.com/ghpvc/?username=musayoncalik&color=blue)</div> |
+| 👋 Merhaba, Ben Musa Yoncalık                                                                                        | <div align="right">![](https://komarev.com/ghpvc/?username=musayoncalik&color=blue)</div> |
 |---|---|
 
 
