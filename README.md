@@ -58,7 +58,11 @@ Mobil geliştirme, yapay zeka ve siber güvenlik alanlarında kendimi sürekli g
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=musayoncalik&theme=tokyonight)  
 
  
-<div align="right">![](https://komarev.com/ghpvc/?username=musayoncalik&color=blue)</div>
+<div align="left">
+  <a href="https://github.com/musayoncalik">
+    <img src="https://komarev.com/ghpvc/?username=musayoncalik&color=blue" alt="Ziyaretçi Sayısı"/>
+  </a>
+</div>
 
 
  
