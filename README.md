@@ -1,21 +1,17 @@
-
-
-
-👋 Merhaba, Ben Musa Yoncalık 
-
-
+# 👋 Merhaba, Ben Musa Yoncalık
 
 🎓 Mehmet Akif Ersoy Üniversitesi – Bilişim Sistemleri ve Teknolojileri (2022-2026)  
-🏆 MAKÜ Kariyer Diploması 
-🛡️ CYBERSHIELD INNOVATORS – Yeni Nesil Siber Güvenlik Eğitimleri (2025) 
+🏆 MAKÜ Kariyer Diploması  
+🛡️ CYBERSHIELD INNOVATORS – Yeni Nesil Siber Güvenlik Eğitimleri (2025)  
 
-💻 Teknolojiyi geliştirmek kadar güvenli hale getirmenin önemine inanıyorum.    
-Mobil geliştirme, yapay zeka ve siber güvenlik alanlarında kendimi sürekli geliştirerek güvenli dijital çözümler üretiyorum. 
+💻 Teknolojiyi sadece geliştirmek değil, güvenli hale getirmenin önemine inanıyorum.  
+Mobil geliştirme, yapay zeka ve siber güvenlik alanlarında kendimi sürekli geliştirerek güvenli dijital çözümler üretiyorum.  
 
-🚀 GitHub'da öğrendiklerimi paylaşmayı seviyorum.
+🚀 GitHub’da öğrendiklerimi paylaşmayı ve projelerimle insanlara fayda sağlamayı seviyorum.
+
 ---
 
-## 🌐 Sosyal Medya / Social Media
+## 🌐 Sosyal Medya
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musayoncalik/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/musayoncalik)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musayoncalik100@gmail.com)
@@ -28,19 +24,20 @@ Mobil geliştirme, yapay zeka ve siber güvenlik alanlarında kendimi sürekli g
 ---
 
 ## 🧠 Kariyer Becerileri
-- 🧠 Eleştirel Düşünme 
-- 💬 Etkili İletişim 
-- ⏱ Zaman Yönetimi 
-- 🔥 Stres Yönetimi 
-- 🤝 Hizmet Yönelimi  
-- 🌐 İş Ekosistemi Yönetimi 
+- 🧠 Eleştirel Düşünme  
+- 💬 Etkili İletişim  
+- ⏱ Zaman Yönetimi  
+- 🔥 Stres Yönetimi  
+- 🤝 Hizmet Odaklılık  
+- 🌐 İş Ekosistemi Yönetimi  
 
 ---
 
 ## 🎓 Eğitim & Sertifikalar 
 - Mehmet Akif Ersoy Üniversitesi – Bilişim Sistemleri ve Teknolojileri (2022-2026)  
 - 🏆 Kariyer Diploması  
-- 🛡️ CYBERSHIELD INNOVATORS – Yeni Nesil Siber Güvenlik Eğitimleri (2025) 
+- 🛡️ CYBERSHIELD INNOVATORS – Yeni Nesil Siber Güvenlik Eğitimleri (2025)  
+
 ---
 
 ## 🏅 Yetkinlikler
@@ -48,7 +45,7 @@ Mobil geliştirme, yapay zeka ve siber güvenlik alanlarında kendimi sürekli g
 ![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![Siber Güvenlik Badge](https://img.shields.io/badge/Siber%20Güvenlik-0288D1?style=for-the-badge&logo=shield&logoColor=white)
+![Siber Güvenlik Badge](https://img.shields.io/badge/Siber%20Güvenlik-0288D1?style=for-the-badge&logo=shield&logoColor=white)  
 
 ---
 
@@ -57,13 +54,11 @@ Mobil geliştirme, yapay zeka ve siber güvenlik alanlarında kendimi sürekli g
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musayoncalik&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=musayoncalik&theme=tokyonight)  
 
- 
+---
+
+## 👁️ Ziyaretçi Sayısı
 <div align="left">
   <a href="https://github.com/musayoncalik">
     <img src="https://komarev.com/ghpvc/?username=musayoncalik&color=blue" alt="Ziyaretçi Sayısı"/>
   </a>
 </div>
-
-
- 
-
