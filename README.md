@@ -3,10 +3,10 @@
 
 🎓 Mehmet Akif Ersoy Üniversitesi – Bilişim Sistemleri ve Teknolojileri (2022-2026)  
 🏆 MAKÜ Kariyer Diploması 
-🛡️ CYBERSHIELD INNOVATORS – Yeni Nesil Siber Güvenlik Eğitimleri (2025) g  
+🛡️ CYBERSHIELD INNOVATORS – Yeni Nesil Siber Güvenlik Eğitimleri (2025) 
 
 💻 Teknolojiyi geliştirmek kadar güvenli hale getirmenin önemine inanıyorum.    
-Mobil geliştirme, yapay zeka ve siber güvenlik alanlarında kendimi sürekli geliştirerek güvenli dijital çözümler üretiyorum.  .  
+Mobil geliştirme, yapay zeka ve siber güvenlik alanlarında kendimi sürekli geliştirerek güvenli dijital çözümler üretiyorum. 
 
 🚀 GitHub'da öğrendiklerimi paylaşmayı seviyorum.
 ---
