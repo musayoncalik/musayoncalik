@@ -1,5 +1,8 @@
-| 👋 Merhaba, Ben Musa Yoncalık                                                                                        | <div align="right">![](https://komarev.com/ghpvc/?username=musayoncalik&color=blue)</div> |
+![Musa Yoncalık](https://img.shields.io/badge/-Musa%20Yoncalık-blue?style=for-the-badge&logo=appveyor)
+
+| 👋 Merhaba, Ben Musa Yoncalık | <div align="right">![](https://komarev.com/ghpvc/?username=musayoncalik&color=blue)</div> |
 |---|---|
+
 
 
 🎓 Mehmet Akif Ersoy Üniversitesi – Bilişim Sistemleri ve Teknolojileri (2022-2026)  
