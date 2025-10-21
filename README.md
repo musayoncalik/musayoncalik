@@ -1,10 +1,8 @@
-![Musa Yoncalık](https://img.shields.io/badge/-Musa%20Yoncalık-blue?style=for-the-badge&logo=appveyor)
 
 
 
-| 👋 Merhaba, Ben Musa Yoncalık | <div align="right">![](https://komarev.com/ghpvc/?username=musayoncalik&color=blue)</div> |
-|---|---|
 
+| 👋 Merhaba, Ben Musa Yoncalık 
 
 
 
@@ -59,3 +57,8 @@ Mobil geliştirme, yapay zeka ve siber güvenlik alanlarında kendimi sürekli g
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=musayoncalik&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musayoncalik&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=musayoncalik&theme=tokyonight)  
+
+
+
+| <div align="left">![](https://komarev.com/ghpvc/?username=musayoncalik&color=blue)</div> |
+|---|---|
