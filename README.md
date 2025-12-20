@@ -1,5 +1,5 @@
 <!-- Profil Banner -->
-![MUSA YONCALIK](https://capsule-render.vercel.app/api?type=wave&height=280&text=MUSA%20YONCALIK&fontSize=58&color=0:ff0080,20:ff8c00,40:40e0d0,60:00bfff,80:7b68ee,100:adff2f)
+![MUSA YONCALIK](https://capsule-render.vercel.app/api?type=rect&height=280&text=MUSA%20YONCALIK&font=JetBrains%20Mono&fontSize=54&fontColor=00ff9c&color=0:000000,100:0f2027&desc=<%20Hacker%20|%20Coder%20|%20Security%20/>&descAlignY=70)
 
 
 
