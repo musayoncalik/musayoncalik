@@ -27,7 +27,16 @@ Mobil geliştirme, yapay zeka ve siber güvenlik alanlarında kendimi sürekli g
 ---
 
 ## 🛠️ Teknolojiler ve Araçlar
-⚙️ C# | 🗄 MySQL | 🌐 HTML5 | 🎨 CSS3 | 🔄 Git & GitHub | 🐍 Python | 📱 Flutter | 🌐 Network | 🖇 MS Office | 🛡️ Siber Güvenlik  
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=00ff00)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff00)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff00)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ff00)
+![Git](https://img.shields.io/badge/Git%20%26%20GitHub-000000?style=for-the-badge&logo=git&logoColor=00ff00)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff00)
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00ff00)
+![Network](https://img.shields.io/badge/Network-000000?style=for-the-badge&logo=cisco&logoColor=00ff00)
+![MS Office](https://img.shields.io/badge/MS%20Office-000000?style=for-the-badge&logo=microsoftoffice&logoColor=00ff00)
+![Cyber Security](https://img.shields.io/badge/Cyber%20Security-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff00)
 
 ---
 
