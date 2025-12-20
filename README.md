@@ -1,5 +1,5 @@
 <!-- Profil Banner -->
-![MUSA YONCALIK Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Alihan%20Dursun)
+![MUSA YONCALIK Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=MUSA%20YONCALIK)
 
 
 
