@@ -1,5 +1,6 @@
 <!-- Profil Banner -->
-![MUSA YONCALIK](https://capsule-render.vercel.app/api?type=wave&height=280&text=MUSA%20YONCALIK&font=Fira%20Code&fontSize=55&fontColor=00f5ff&color=0:0f0c29,50:302b63,100:24243e&desc=Cyber%20Security%20|%20Code%20Life&descAlignY=70)
+![MUSA YONCALIK](https://capsule-render.vercel.app/api?type=waving&height=300&text=ACCESS%20GRANTED&font=Fira%20Code&fontSize=50&fontColor=00ff00&color=0:000000,100:003300&desc=MUSA%20YONCALIK%20|%20SYSTEM%20ONLINE&descAlignY=65)
+
 
 
 
