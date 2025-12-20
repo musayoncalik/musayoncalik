@@ -1,5 +1,5 @@
 <!-- Profil Banner -->
-![MUSA YONCALIK](https://capsule-render.vercel.app/api?type=waving&height=300&text=MUSA%20YONCALIK&font=Fira%20Code&fontSize=50&fontColor=00ff00&color=0:000000,100:003300&desc=%20%20|%20%20E&descAlignY=65)  
+![MUSA YONCALIK](https://capsule-render.vercel.app/api?type=waving&height=300&text=MUSA%20YONCALIK&font=Fira%20Code&fontSize=50&fontColor=00ff00&color=0:000000,100:003300&desc=%20%20%20%20&descAlignY=65)  
 
 
 
