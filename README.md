@@ -1,3 +1,9 @@
+<!-- Profil Banner -->
+![MUSA YONCALIK Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Alihan%20Dursun)
+
+
+
+
 # 👋 Merhaba, Ben Musa Yoncalık
 
 🎓 Mehmet Akif Ersoy Üniversitesi – Bilişim Sistemleri ve Teknolojileri (2022-2026)  
