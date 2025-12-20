@@ -2,11 +2,6 @@
 ![MUSA YONCALIK](https://capsule-render.vercel.app/api?type=waving&height=300&text=MUSA%20YONCALIK&font=Fira%20Code&fontSize=50&fontColor=00ff00&color=0:000000,100:003300&desc=%20%20%20%20&descAlignY=65)  
 
 
-
-
-
-
-
 # 👋 Merhaba, Ben Musa Yoncalık
 
 🎓 Mehmet Akif Ersoy Üniversitesi – Bilişim Sistemleri ve Teknolojileri (2022-2026)  
@@ -27,16 +22,16 @@ Mobil geliştirme, yapay zeka ve siber güvenlik alanlarında kendimi sürekli g
 ---
 
 ## 🛠️ Teknolojiler ve Araçlar
-![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=00ff00)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff00)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff00)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ff00)
-![Git](https://img.shields.io/badge/Git%20%26%20GitHub-000000?style=for-the-badge&logo=git&logoColor=00ff00)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff00)
-![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00ff00)
-![Network](https://img.shields.io/badge/Network-000000?style=for-the-badge&logo=cisco&logoColor=00ff00)
-![MS Office](https://img.shields.io/badge/MS%20Office-000000?style=for-the-badge&logo=microsoftoffice&logoColor=00ff00)
-![Cyber Security](https://img.shields.io/badge/Cyber%20Security-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff00)
+![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git & GitHub Badge](https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Network Badge](https://img.shields.io/badge/Network-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![MS Office Badge](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Siber%20Güvenlik Badge](https://img.shields.io/badge/Siber%20G%C3%BCvenlik-0288D1?style=for-the-badge&logo=shield&logoColor=white)
 
 ---
 
@@ -55,14 +50,6 @@ Mobil geliştirme, yapay zeka ve siber güvenlik alanlarında kendimi sürekli g
 - 🏆 Kariyer Diploması  
 - 🛡️ CYBERSHIELD INNOVATORS – Yeni Nesil Siber Güvenlik Eğitimleri (2025)  
 
----
-
-## 🏅 Yetkinlikler
-![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![Siber Güvenlik Badge](https://img.shields.io/badge/Siber%20Güvenlik-0288D1?style=for-the-badge&logo=shield&logoColor=white)  
 
 ---
 
