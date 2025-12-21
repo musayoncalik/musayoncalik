@@ -32,6 +32,10 @@ Mobil geliştirme, yapay zeka ve siber güvenlik alanlarında kendimi sürekli g
 [![Network Badge](https://img.shields.io/badge/Network-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/)
 [![MS Office Badge](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)](https://www.office.com/)
 [![Siber Güvenlik Badge](https://img.shields.io/badge/Siber%20Güvenlik-0288D1?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.owasp.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 ---
 
 ## 🧠 Kariyer Becerileri
