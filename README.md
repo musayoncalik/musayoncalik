@@ -1,9 +1,7 @@
 <!-- Profil Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=MUSA%20YONCALIK&font=Fira%20Code&fontSize=50&fontColor=00ff00&color=0:000000,100:003300&desc=%20%20%20%20&descAlignY=65" />
-</p>
-
-<p align="center">
+  <br>
   <a href="https://www.linkedin.com/in/musayoncalik/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
