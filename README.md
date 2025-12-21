@@ -1,14 +1,5 @@
 <!-- Profil Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=MUSA%20YONCALIK&font=Fira%20Code&fontSize=50&fontColor=00ff00&color=0:000000,100:003300&desc=%20%20%20%20&descAlignY=65" />
-  <br>
-  <a href="https://www.linkedin.com/in/musayoncalik/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:musayoncalik100@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+![MUSA YONCALIK](https://capsule-render.vercel.app/api?type=waving&height=300&text=MUSA%20YONCALIK&font=Fira%20Code&fontSize=50&fontColor=00ff00&color=0:000000,100:003300&desc=%20%20%20%20&descAlignY=65) 
 
 ---
 
@@ -23,8 +14,13 @@ Mobil geliştirme, yapay zeka ve siber güvenlik alanlarında kendimi sürekli g
 
 🚀 GitHub’da öğrendiklerimi paylaşmayı ve projelerimle insanlara fayda sağlamayı seviyorum.
 
----
 
+--
+# 🌐 Sosyal Medya
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musayoncalik/)   
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musayoncalik100@gmail.com)
 
 ---
 
