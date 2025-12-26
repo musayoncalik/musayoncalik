@@ -62,20 +62,19 @@ Mobil geliştirme, yapay zeka ve siber güvenlik alanlarında kendimi sürekli g
 ## 📊 GitHub İstatistikleri
 <div align="center">
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=musayoncalik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <h2>📊 İstatistikler</h2>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=musayoncalik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musayoncalik&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
-  
-  <br/><br/>
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=musayoncalik&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musayoncalik&layout=compact&theme=tokyonight" />
-  
   <br/>
+  <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=musayoncalik&theme=tokyonight&border_radius=4.5" />
+  </a>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=musayoncalik&theme=tokyonight" />
-
-</div> 
+</div>
 
 ---
 
