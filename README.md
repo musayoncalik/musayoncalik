@@ -60,9 +60,11 @@ Mobil geliştirme, yapay zeka ve siber güvenlik alanlarında kendimi sürekli g
 ---
 
 ## 📊 GitHub İstatistikleri
-<div align="center">
-  <img src="https://metrics.lecoq.io/musayoncalik?template=isometric&config.timezone=Europe%2FIstanbul" alt="3D Stats" />
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=musayoncalik&show_icons=true&theme=transparent&hide_border=true&title_color=00bfff&text_color=c9d1d9&icon_color=00bfff)
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musayoncalik&layout=compact&theme=transparent&hide_border=true&title_color=00bfff&text_color=c9d1d9)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=musayoncalik&theme=onedark&no-frame=true&margin-w=10&no-bg=true)
 
 ---
 
