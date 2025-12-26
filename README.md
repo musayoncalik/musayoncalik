@@ -60,12 +60,27 @@ Mobil geliştirme, yapay zeka ve siber güvenlik alanlarında kendimi sürekli g
 ---
 
 ## 📊 GitHub İstatistikleri
-![Stats](https://github-readme-stats.vercel.app/api?username=musayoncalik&show_icons=true&theme=transparent&hide_border=true&title_color=00bfff&text_color=c9d1d9&icon_color=00bfff)
+<div align="center">
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=musayoncalik&theme=onedark&no-frame=true&margin-w=15&no-bg=true" alt="musayoncalik" />
+  </a>
+  
+  <br />
+  <br />
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musayoncalik&layout=compact&theme=transparent&hide_border=true&title_color=00bfff&text_color=c9d1d9)
+  <table>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=musayoncalik&show_icons=true&theme=transparent&hide_border=true&title_color=00bfff&text_color=c9d1d9&icon_color=00bfff" alt="Stats" />
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musayoncalik&layout=compact&theme=transparent&hide_border=true&title_color=00bfff&text_color=c9d1d9" alt="Languages" />
+      </td>
+    </tr>
+  </table>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=musayoncalik&theme=onedark&no-frame=true&margin-w=10&no-bg=true)
-
+</div>
 ---
 
 ## 👁️ Ziyaretçi Sayısı
