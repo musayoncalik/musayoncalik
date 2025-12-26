@@ -60,9 +60,22 @@ Mobil geliştirme, yapay zeka ve siber güvenlik alanlarında kendimi sürekli g
 ---
 
 ## 📊 GitHub İstatistikleri
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=musayoncalik&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musayoncalik&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=musayoncalik&theme=tokyonight)  
+<div align="center">
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=musayoncalik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+  
+  <br/><br/>
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=musayoncalik&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musayoncalik&layout=compact&theme=tokyonight" />
+  
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=musayoncalik&theme=tokyonight" />
+
+</div> 
 
 ---
 
