@@ -60,14 +60,9 @@ Mobil geliştirme, yapay zeka ve siber güvenlik alanlarında kendimi sürekli g
 ---
 
 ## 📊 GitHub İstatistikleri
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=musayoncalik&theme=onedark&no-frame=true&margin-w=10&no-bg=true" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=musayoncalik&show_icons=true&theme=transparent&hide_border=true&title_color=00bfff&text_color=c9d1d9&icon_color=00bfff&height=150" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musayoncalik&layout=compact&theme=transparent&hide_border=true&title_color=00bfff&text_color=c9d1d9&height=150" height="150" />
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=musayoncalik&theme=onedark&no-frame=true&margin-w=10&no-bg=true)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=musayoncalik&show_icons=true&theme=transparent&hide_border=true&title_color=00bfff&text_color=c9d1d9&icon_color=00bfff) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musayoncalik&layout=compact&theme=transparent&hide_border=true&title_color=00bfff&text_color=c9d1d9)
 ---
 
 ## 👁️ Ziyaretçi Sayısı
