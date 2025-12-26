@@ -61,18 +61,7 @@ Mobil geliştirme, yapay zeka ve siber güvenlik alanlarında kendimi sürekli g
 
 ## 📊 GitHub İstatistikleri
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=musayoncalik&show_icons=true&theme=transparent&hide_border=true&title_color=9e4c98&text_color=c9d1d9&icon_color=9e4c98" height="150" alt="stats" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musayoncalik&layout=donut&theme=transparent&hide_border=true&text_color=c9d1d9" height="150" alt="languages" />
-  </a>
-  
-  <br/>
-  <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=musayoncalik&theme=transparent&hide_border=true&fire=EB4C42&ring=9e4c98&currStreakLabel=EB4C42" alt="streak" />
-  </a>
+  <img src="https://metrics.lecoq.io/musayoncalik?template=isometric&config.timezone=Europe%2FIstanbul" alt="3D Stats" />
 </div>
 
 ---
