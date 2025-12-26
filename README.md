@@ -61,21 +61,25 @@ Mobil geliştirme, yapay zeka ve siber güvenlik alanlarında kendimi sürekli g
 
 ## 📊 GitHub İstatistikleri
 <div align="center">
-  
+
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=musayoncalik&theme=onedark&no-frame=true&margin-w=15&no-bg=true" alt="musayoncalik" />
+    <img src="https://github-profile-trophy.vercel.app/?username=musayoncalik&theme=onedark&no-frame=true&margin-w=15&no-bg=true" alt="Trophies" />
   </a>
   
-  <br />
-  <br />
+  <br/><br/>
 
-  <table>
+  <table style="border: none; border-collapse: collapse;">
     <tr>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=musayoncalik&show_icons=true&theme=transparent&hide_border=true&title_color=00bfff&text_color=c9d1d9&icon_color=00bfff" alt="Stats" />
+      <td align="right" valign="middle" style="border: none; padding-right: 20px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=musayoncalik&show_icons=true&theme=transparent&hide_border=true&title_color=00bfff&text_color=c9d1d9&icon_color=00bfff&count_private=true" alt="Stats" height="160" />
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musayoncalik&layout=compact&theme=transparent&hide_border=true&title_color=00bfff&text_color=c9d1d9" alt="Languages" />
+
+      <td align="center" valign="middle" style="border: none;">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhkZ2h6bmhzb2c4anh4bWdic25kcjQ3ZWR0YnFvYmR4cjYxZGV2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L33x63kYy2J9XpX6Fp/giphy.gif" width="120" height="120" alt="Center Core" />
+      </td>
+
+      <td align="left" valign="middle" style="border: none; padding-left: 20px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musayoncalik&layout=compact&theme=transparent&hide_border=true&title_color=00bfff&text_color=c9d1d9" alt="Languages" height="160" />
       </td>
     </tr>
   </table>
