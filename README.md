@@ -72,5 +72,6 @@ Mobil geliştirme, yapay zeka ve siber güvenlik alanlarında kendimi sürekli g
   </a>
 </div>
 ---
+
 ![](https://capsule-render.vercel.app/api?type=waving&height=300&text=&font=Fira%20Code&fontSize=50&fontColor=00ff00&color=0:000000,100:003300&desc=%20%20%20%20&descAlignY=65) 
 
